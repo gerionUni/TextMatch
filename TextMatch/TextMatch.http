@@ -1,0 +1,6 @@
+@TextMatch_HostAddress = http://localhost:5058
+
+GET {{TextMatch_HostAddress}}/TextMatch/
+Accept: application/json
+
+###
